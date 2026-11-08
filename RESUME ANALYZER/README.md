@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 What is AI Career Companion? (In Simple Words)
+## 🌟 What is AI Career Companion? 
 
 Searching for jobs and campus placements is stressful. Most students and job seekers have to:
 - 😫 Manage messy spreadsheets to remember where they applied and when interviews are scheduled.
