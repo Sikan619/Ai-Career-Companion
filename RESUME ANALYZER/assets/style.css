@@ -1,0 +1,40 @@
+/* AI Career Companion Responsive & Theme-Aware Styling */
+
+/* Make Streamlit metrics look sleek and readable in both Light and Dark mode */
+[data-testid="stMetric"] {
+    background-color: rgba(125, 125, 125, 0.08) !important;
+    border: 1px solid rgba(125, 125, 125, 0.2) !important;
+    border-radius: 10px !important;
+    padding: 14px 18px !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06) !important;
+    transition: transform 0.15s ease, border-color 0.15s ease !important;
+}
+
+[data-testid="stMetric"]:hover {
+    border-color: #3b82f6 !important;
+    transform: translateY(-2px) !important;
+}
+
+[data-testid="stMetricLabel"] {
+    font-size: 0.95rem !important;
+    font-weight: 500 !important;
+    opacity: 0.85 !important;
+}
+
+[data-testid="stMetricValue"] {
+    font-size: 1.85rem !important;
+    font-weight: 700 !important;
+}
+
+/* Status Pills for Home Page */
+.status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(125, 125, 125, 0.12);
+    border: 1px solid rgba(125, 125, 125, 0.25);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 500;
+}
