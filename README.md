@@ -1,3 +1,6 @@
+<img width="1898" height="882" alt="image" src="https://github.com/user-attachments/assets/bb7579e9-1dcd-4a1b-b23c-b38eb21c5c9a" />
+
+
 # 💼 AI Career Companion
 
 ### Your AI-Powered Placement Co-Pilot & Job Application Tracker
